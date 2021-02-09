@@ -1,24 +1,31 @@
-# vue-billing-tracker
 
-## Project setup
-```
-yarn install
-```
+<h3 align="center">
+  Billing tracker
+</h3>
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+<p align="center">
+  Billing tracker for different currencies with sorting & filtering
+</p>
 
-### Compiles and minifies for production
-```
-yarn build
-```
+<img src="https://i.imgur.com/fIAhA66.gif" />
 
-### Lints and fixes files
-```
-yarn lint
-```
+## Demo
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[here](https://naughty-brown-451e91.netlify.app/)
+
+## Tech stack
+* [Vue.js](https://vuejs.org/)
+## Features
+
+* Different currencies
+* Sorting & filtering
+
+
+
+## How to start locally 
+
+```
+1) Clone repo
+2) yarn install
+3) yarn serve
+```
