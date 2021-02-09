@@ -1,0 +1,16 @@
+{
+  "short_name": "Billing",
+  "name": "Vue Billing tracker (PWA)",
+  "icons": [
+    {
+      "src": "./img/icons/192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/index.html",
+  "background_color": "#F3F4F6",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#F3F4F6"
+}

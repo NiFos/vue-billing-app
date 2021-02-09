@@ -1,0 +1,15 @@
+mutation AddTransaction(
+  $title: String!
+  $amount: Int!
+  $currency: String!
+  $income: Boolean!
+  $category: Int
+) {
+  addTransaction(
+    title: $title
+    amount: $amount
+    currency: $currency
+    income: $income
+    category: $category
+  ) @client
+}

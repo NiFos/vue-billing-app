@@ -1,0 +1,3 @@
+mutation RemoveTransaction($id: Int!) {
+  removeTransaction(id: $id) @client
+}

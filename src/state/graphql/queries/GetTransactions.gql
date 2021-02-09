@@ -1,0 +1,11 @@
+query Transactions @client {
+  transactions {
+    id
+    title
+    amount
+    date
+    currency
+    income
+    category
+  }
+}
